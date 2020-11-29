@@ -1,0 +1,13 @@
+C:\Users\vetol\Desktop\4lab_oop\Part4\bin\Debug\netcoreapp3.1\Part4.exe
+C:\Users\vetol\Desktop\4lab_oop\Part4\bin\Debug\netcoreapp3.1\Part4.deps.json
+C:\Users\vetol\Desktop\4lab_oop\Part4\bin\Debug\netcoreapp3.1\Part4.runtimeconfig.json
+C:\Users\vetol\Desktop\4lab_oop\Part4\bin\Debug\netcoreapp3.1\Part4.runtimeconfig.dev.json
+C:\Users\vetol\Desktop\4lab_oop\Part4\bin\Debug\netcoreapp3.1\Part4.dll
+C:\Users\vetol\Desktop\4lab_oop\Part4\bin\Debug\netcoreapp3.1\Part4.pdb
+C:\Users\vetol\Desktop\4lab_oop\Part4\obj\Debug\netcoreapp3.1\Part4.csprojAssemblyReference.cache
+C:\Users\vetol\Desktop\4lab_oop\Part4\obj\Debug\netcoreapp3.1\Part4.AssemblyInfoInputs.cache
+C:\Users\vetol\Desktop\4lab_oop\Part4\obj\Debug\netcoreapp3.1\Part4.AssemblyInfo.cs
+C:\Users\vetol\Desktop\4lab_oop\Part4\obj\Debug\netcoreapp3.1\Part4.csproj.CoreCompileInputs.cache
+C:\Users\vetol\Desktop\4lab_oop\Part4\obj\Debug\netcoreapp3.1\Part4.dll
+C:\Users\vetol\Desktop\4lab_oop\Part4\obj\Debug\netcoreapp3.1\Part4.pdb
+C:\Users\vetol\Desktop\4lab_oop\Part4\obj\Debug\netcoreapp3.1\Part4.genruntimeconfig.cache
